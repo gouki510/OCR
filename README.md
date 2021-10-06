@@ -1,6 +1,5 @@
 # OCR 文字認識
 <div style="text-align: right;">
- 03-210245 峰岸剛基
 </div>
 
 ## 概要
